@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/Background.png","C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/bin/DesktopGL/Content/Background.xnb","TextureProcessor","Texture2DContent",64304,880085,0.1025618
+"C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/Cannon.png","C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/bin/DesktopGL/Content/Cannon.xnb","TextureProcessor","Texture2DContent",4069,35285,0.0021318
+"C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/CannonBall.png","C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/bin/DesktopGL/Content/CannonBall.xnb","TextureProcessor","Texture2DContent",2822,149,0.0052999
+"C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/Fireball.png","C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/bin/DesktopGL/Content/Fireball.xnb","TextureProcessor","Texture2DContent",2994,2805,0.0016403
+"C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/Mosquito.png","C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/bin/DesktopGL/Content/Mosquito.xnb","TextureProcessor","Texture2DContent",9900,81045,0.0035936
+"C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/Poof.png","C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/bin/DesktopGL/Content/Poof.xnb","TextureProcessor","Texture2DContent",3129,8277,0.0012478
+"C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/SystemArialFont.spritefont","C:/NAIT/Term2/GMPR2514/assignment3ForNow/Assignment3/Content/bin/DesktopGL/Content/SystemArialFont.xnb","FontDescriptionProcessor","SpriteFontContent",2073,37913,0.1229249
